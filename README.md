@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## I'm Miquel Centellas! 👋
+### Full Stack Developer coming from a Graphic Designer background!
 <!--
 **miquelcentellas/miquelcentellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
